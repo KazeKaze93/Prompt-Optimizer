@@ -1,0 +1,14 @@
+# Игнорируем конфиг с реальными API ключами
+user_config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
