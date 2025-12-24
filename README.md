@@ -2,8 +2,6 @@
 
 Десктопная утилита для превращения "грязных" мыслей в профессиональные промпты для нейросетей. Использует API Google Gemini для переписывания ваших запросов по структуре: **Persona -> Context -> Task -> Constraints -> Output**.
 
-![Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot+Here)
-_(Сюда можно вставить скриншот программы)_
 
 ## ✨ Возможности
 
@@ -40,3 +38,4 @@ python -m PyInstaller --noconsole --onefile --collect-all customtkinter --name "
 Кнопка Paste не работает? Используйте кнопку в интерфейсе программы.
 
 Ошибка при запуске? Удалите файл user_config.json рядом с программой и настройте ключ заново.
+
